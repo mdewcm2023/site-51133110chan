@@ -1,1 +1,1 @@
-var tipuesearch = {"pages": [{'title': 'About', 'text': 'cmsimde_site \n https://www.asjh.ntpc.edu.tw/p/406-1000-3359,r24.php \n IG', 'tags': '', 'url': 'About.html'}]};
+var tipuesearch = {"pages": [{'title': 'First', 'text': '', 'tags': '', 'url': 'First.html'}, {'title': 'About', 'text': 'cmsimde_site \n https://www.asjh.ntpc.edu.tw/p/406-1000-3359,r24.php \n IG \n /downloads/cambridge_english_vocabulary_list.pdf \n /downloads/The_Oxford_5000.pdf', 'tags': '', 'url': 'About.html'}]};
